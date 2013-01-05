@@ -5,7 +5,7 @@
     <title>ccleaner</title>
     <version>3.26.1888</version>
     <authors>Piriform</authors>
-    <owners>Erwann Plouhinec</owners>
+    <owners>eplouhinec</owners>
     <summary>CCleaner is the number-one tool for cleaning your Windows PC. It protects your privacy online and makes your computer faster and more secure.</summary>
     <description>CCleaner is the number-one tool for cleaning your Windows PC. It protects your privacy online and makes your computer faster and more secure. Please install with chocolatey (http://nuget.org/List/Packages/chocolatey). This will install CCleaner (without the Yahoo! toolbar) on your system!</description>
     <projectUrl>http://www.piriform.com/ccleaner</projectUrl>
