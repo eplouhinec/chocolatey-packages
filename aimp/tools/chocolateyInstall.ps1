@@ -1,6 +1,6 @@
 ﻿$packageName = 'aimp'
 $installerType = 'exe'
-$url = 'http://files.programki.net/aimp/aimp_3.20.1165.exe'
+$url = 'http://files.programki.net/aimp/aimp_3.51.1288.exe'
 $url64 = $url
 $validExitCodes = @(0)
 
